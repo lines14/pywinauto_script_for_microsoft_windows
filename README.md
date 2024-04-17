@@ -1,1 +1,1 @@
-# appium_pytest_qa_framework_python
+# pywinauto_script_for_microsoft_windows
